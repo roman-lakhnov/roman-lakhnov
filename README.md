@@ -19,5 +19,5 @@ I'm Junior Full-Stack Developer based in Plovdiv, Bulgaria 🇧🇬 and currentl
 
 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/roman-lakhnov)  
-- [lakhnov.roman@gmail.com](mailto:lakhnov.roman@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/roman-lakhnov-18305b207/)  
+- [lakhnov.roman@gmail.com](mailto:lakhnov.roman@gmail.com)
